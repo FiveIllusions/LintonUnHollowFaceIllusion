@@ -1,3 +1,3 @@
-# LintonUnHollowFaceIllusion
+# Linton Un-Hollow Face Illusion
 
-Linton Un-Hollow Face Illusion
+By Paul Linton, Columbia University
